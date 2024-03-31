@@ -1,7 +1,5 @@
 # Scholar
 
-Sure, here's an outline for the mega app idea and how it should work:
-
 **App Overview**
 - A multi-purpose AI-powered app to assist college students with various academic and personal tasks.
 - Five main "pathways" or sections: Study, Research, Present, Time, and Career.
